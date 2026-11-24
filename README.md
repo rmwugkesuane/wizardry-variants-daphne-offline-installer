@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Puzzle Planet offers a unique blend of puzzle-solving and world exploration, perfect for solo players and groups of friends. This game invites players to embark on a virtual world tour, piecing together jigsaw puzzles that feature stunning real-world locations from every corner of the globe.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 | Ventura |
+| **Processor** | Any | 1.7Ghz or Higher |
+| **Memory** | 8 GB RAM | 8 GB RAM |
+| **Graphics** | Any | 512MB VRAM, Pixel Shader 2.0 or higher |
+| **Storage** | 2 GB available space | 2 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **Sound Card** | Any | Any |
 
 ---
 
